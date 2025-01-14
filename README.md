@@ -1,2 +1,2 @@
 # ibmstudy
-print("JU SNG")
+JU SNG
